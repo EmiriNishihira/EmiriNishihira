@@ -5,6 +5,5 @@
   <a href="http://qiita.com/emiri0414" style="text-decoration: none;"><img height="20" src="https://qiita-badge.apiapi.app/s/emiri0414/contributions.svg"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmiriNishihira&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmiriNishihira&layout=donut)](https://github.com/EmiriNishihira/github-readme-stats)
 
