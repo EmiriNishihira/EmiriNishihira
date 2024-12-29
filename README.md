@@ -7,13 +7,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=swift,flutter,androidstudio,ruby,vscode,firebase,figma,postman,apple)](https://skillicons.dev)
 [![trophy](https://github-profile-trophy.vercel.app/?username=EmiriNishihira&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats-navy-eta.vercel.app/api?username=EmiriNishihira&show_icons=true&theme=radical)](https://github.com/EmiriNishihira/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmiriNishihira&layout=donut&bg_color=000000&text_color=FFFFFF&title_color=ff0099)](https://github.com/EmiriNishihira/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmiriNishihira&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmiriNishihira&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmiriNishihira&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmiriNishihira&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmiriNishihira&theme=radical&utcOffset=9)
+
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-navy-eta.vercel.app/api?username=EmiriNishihira&show_icons=true&theme=radical" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmiriNishihira&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=ff0099" />
+  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmiriNishihira&theme=radical"/>
+  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmiriNishihira&theme=radical&utcOffset=9"/>
+  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmiriNishihira&theme=radical"/>
+  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmiriNishihira&theme=radical"/>
+  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmiriNishihira&theme=radical"/>
+</div>
 
 ## MyHomePage🐹
 https://emiri.my.canva.site/team-updates
