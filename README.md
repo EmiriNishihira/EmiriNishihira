@@ -5,7 +5,7 @@
   <a href="http://qiita.com/emiri0414" style="text-decoration: none;"><img height="20" src="https://qiita-badge.apiapi.app/s/emiri0414/contributions.svg"/></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,androidstudio,ruby,vscode,firebase,figma,postman,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,androidstudio,python,ruby,vscode,firebase,figma,postman,apple)](https://skillicons.dev)
 [![trophy](https://github-profile-trophy.vercel.app/?username=EmiriNishihira&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="left"> 
