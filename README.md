@@ -7,11 +7,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=swift,flutter,androidstudio,python,ruby,vscode,firebase,figma,postman,apple)](https://skillicons.dev)
 
-<div align="left"> 
-  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmiriNishihira&theme=radical"/>
-  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EmiriNishihira&theme=radical&utcOffset=9"/>
-  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmiriNishihira&theme=radical"/>
-  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmiriNishihira&theme=radical"/>
-  <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmiriNishihira&theme=radical"/>
 </div>
 
